@@ -1,1 +1,2 @@
-#!bin/bash\nrealpath
+#!/bin/bash
+pwd
